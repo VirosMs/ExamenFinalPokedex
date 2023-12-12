@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">ExamenFinal</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="movement">Movement</string>
+    <string name="accuracy">Accuracy</string>
+    <string name="pokemon">Pokemon</string>
+    <string name="pokeball_icon">Pokeball Icon</string>
+    <string name="listadoMoves">Listado de movimientos</string>
+    <string name="costeItemTitle">Coste</string>
+    <string name="categoriaItemTitle">Categoria</string>
+    <string name="efectosItemTitle">Efectos</string>
+</resources>
