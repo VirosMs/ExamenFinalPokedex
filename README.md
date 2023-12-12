@@ -1,4 +1,4 @@
-# Nombre de la Aplicación
+# Pokedex Charles
 
 Aquí puedes poner una breve descripción de tu aplicación.
 
@@ -33,7 +33,7 @@ Las contribuciones son siempre bienvenidas. Para contribuir:
 
 ## Licencia
 
-Aquí puedes poner la licencia que estás utilizando para tu proyecto. Si no tienes una, puedes usar [Choose a License](https://choosealicense.com/licenses/gpl-3.0/) para encontrar la que mejor se adapte a tu proyecto.
+Aquí puedes poner la licencia que estás utilizando para tu proyecto. Si no tienes una, puedes usar [License](https://choosealicense.com/licenses/gpl-3.0/) para encontrar la que mejor se adapte a tu proyecto.
 
 
 ## Cambios Realizados
