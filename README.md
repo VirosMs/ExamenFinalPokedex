@@ -33,4 +33,18 @@ Las contribuciones son siempre bienvenidas. Para contribuir:
 
 ## Licencia
 
-Aquí puedes poner la licencia que estás utilizando para tu proyecto. Si no tienes una, puedes usar [Choose a License](https://choosealicense.com/) para encontrar la que mejor se adapte a tu proyecto.
+Aquí puedes poner la licencia que estás utilizando para tu proyecto. Si no tienes una, puedes usar [Choose a License](https://choosealicense.com/licenses/gpl-3.0/) para encontrar la que mejor se adapte a tu proyecto.
+
+
+## Cambios Realizados
+
+En el archivo `fragment_item_detail.xml`, se realizaron los siguientes cambios para cumplir con los requisitos especificados:
+
+
+1. Se añadió un `ScrollView` que contiene un `TextView` para mostrar la lista de Pokémon que pueden aprender el movimiento. Este elemento no estaba presente en la versión original del archivo.
+
+2. Se ajustaron las propiedades de los elementos existentes para cumplir con los requisitos de diseño especificados. Esto incluye ajustar los márgenes, el tamaño del texto, el estilo del texto y los colores de fondo.
+
+Estos cambios se realizaron para cumplir con los requisitos del ejercicio, que pedían que se mostrara la precisión del movimiento y una lista de todos los Pokémon que pueden aprender el movimiento. Además, se hicieron ajustes de diseño para asegurar que la interfaz de usuario cumpla con las especificaciones dadas.
+
+Es importante mencionar que estos cambios no alteran la funcionalidad básica de la aplicación, sino que simplemente añaden más información a la interfaz de usuario y mejoran su apariencia.
